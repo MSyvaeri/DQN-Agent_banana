@@ -8,3 +8,12 @@ The environment is solved if the agent reaches an average reward of +13 over con
 The state space has 37 dimensions and contains the speed of the agent, position of the next bananas etc. With these information the agent has to choose one of four following actions: Going forward, going left, going right or going backwards. 
 
 The agent can be trained by running the jupyter notebook “Run.ipynb”, while the information about the agent are stored in the file “dqn_agent.py”. The neural network is stored in the file “model.py”, while the weights of a trained network are in the file “model.pt”.
+
+Needed Files:
+
+To use the code you have to download "Run.ipynb" and the files “dqn_agent.py” and “model.py”. Additionally, you have to download the environment:
+
+    Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+    Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+    Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
+    Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
