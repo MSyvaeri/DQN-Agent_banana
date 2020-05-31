@@ -11,7 +11,7 @@ The agent can be trained by running the jupyter notebook “Run.ipynb”, while 
 
 Needed Files:
 
-To use the code you have to download "Run.ipynb" and the files “dqn_agent.py” and “model.py”. Additionally, you have to download the environment:
+To use the code you have to download "Run.ipynb" and the files “dqn_agent.py” and “model.py”. Additionally, you have to download the environment "Banana":
 
     Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
     Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
